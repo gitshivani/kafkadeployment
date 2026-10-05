@@ -1,4 +1,3 @@
-# kafkademo
 # Kafka on Kubernetes using Strimzi Operator (KRaft Mode)
 
 This guide demonstrates how to deploy Apache Kafka on Kubernetes using the Strimzi Operator with KRaft mode (ZooKeeper-less architecture).
